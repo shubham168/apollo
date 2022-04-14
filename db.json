@@ -1,0 +1,22 @@
+{
+    "clinic": [
+        {
+            "id": 1,
+            "doctors": []
+        }
+    ],
+    "doctors": {
+        "id": 1,
+        "name": "",
+        "speciality": "",
+        "appointments": "",
+        "cost": ""
+    },
+    "appointment": {
+        "id": 1,
+        "date": "",
+        "time": "",
+        "doctor": "",
+        "patient": ""
+    }
+}
